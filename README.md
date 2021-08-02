@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanya-yerm
 - 👀 I’m interested in automatization of testing
-- 🌱 I’m currently learning how to make effective automized tetst
+- 🌱 I’m currently learning how to make effective automized tests
 
 
 <!---
